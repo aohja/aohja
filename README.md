@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently an aspiring competitive programmer who likes math and computer science. 
+- I'm currently learning C++. 
+
 <!--
 **aohja/aohja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
