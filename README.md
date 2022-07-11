@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently an aspiring competitive programmer who likes math and computer science. 
+I'm currently an aspiring competitive programmer who likes maths and computer science. 
 - I'm currently learning C++. 
 
 <!--
