@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-I'm currently an aspiring competitive programmer who likes maths and computer science. 
-- I'm currently learning C++. 
+I'm an aspiring competitive programmer who likes maths and computer science.
+
+Here are my competitive programming profiles:
+- https://codeforces.com/profile/ludollard
 
 <!--
 **aohja/aohja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
