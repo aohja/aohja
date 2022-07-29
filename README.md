@@ -6,6 +6,7 @@ I'm an aspiring competitive programmer who likes maths and computer science
 
 Here are my competitive programming profiles:
 - https://codeforces.com/profile/ludollard
+- https://www.acmicpc.net/user/aohja
 
 <!--
 **aohja/aohja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
