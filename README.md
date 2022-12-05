@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm an aspiring competitive programmer who likes maths and computer science
+I'm an aspiring competitive programmer and game developer who likes maths and computer science
 
-- 🌱 I’m currently learning about operatings systems.
+- 🌱 I’m currently learning about game building.
 
 Here are my competitive programming profiles:
 - https://codeforces.com/profile/ludollard
