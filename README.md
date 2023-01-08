@@ -5,7 +5,7 @@ I'm an aspiring competitive programmer and game developer who likes maths and co
 - 🌱 I’m currently learning about game building.
 
 Here are my competitive programming profiles:
-- https://codeforces.com/profile/ludollard
+- https://codeforces.com/profile/aohja
 - https://www.acmicpc.net/user/aohja
 
 <!--
